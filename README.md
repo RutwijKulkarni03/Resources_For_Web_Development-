@@ -6,7 +6,7 @@
 
 * Notes
 
-* Cheatsheet
+* Cheatsheet - https://www.thinkful.com/blog/web-developer-cheat-sheet/
 
 * Practice
 
@@ -36,7 +36,5 @@ Django - https://youtube.com/playlist?list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9
 
 Flask - https://youtube.com/playlist?list=PLu0W_9lII9agAiWp6Y41ueUKx1VcTRxmf
 
-Cheatsheet - 
 
-https://www.thinkful.com/blog/web-developer-cheat-sheet/
 
